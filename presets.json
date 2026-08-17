@@ -4,10 +4,10 @@
         "title": "AE LIKE EDIT PRESET",
         "label": "PRESET 01",
         "description": "Premium XML preset for Alight Motion editors.",
-        "thumbnail": "thumbnail/thumbnail1.png",
+        "thumbnail": "thumbnail1.png",
 
-        "xml": "presets/sukuna.zip",
-        "qr": "qr code/sukuna.jpg",
+        "xml": "sukuna.zip",
+        "qr": "sukuna.jpg",
         "alightLink": "https://alightcreative.com/am/share/u/HyYxNakVd0S0rqS4s4cHfSK5nOp2/p/BzzT968nNa-0491c0acfdb4c66a",
 
         "materials": {
@@ -17,12 +17,12 @@
             },
 
             "audio": {
-                "file": "material/audio/audio.zip",
+                "file": "audio.zip",
                 "premium": true
             },
 
             "overlay": {
-                "file": "material/overlay/overlay.zip",
+                "file": "overlay.zip",
                 "premium": true
             },
 
