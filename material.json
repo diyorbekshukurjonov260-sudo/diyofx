@@ -1,0 +1,16 @@
+[
+    {
+        "id": "001",
+        "title": "AE LIKE EDIT PRESET",
+        "label": "MATERIALS 01",
+        "description": "CC • Audio • Overlay • Assets",
+        "thumbnail": "thumbnail/thumbnail1.png",
+
+        "cc": "#",
+        "audio": "materials/audio/audio.zip",
+        "overlay": "materials/overlay/overlay.zip",
+        "assets": "#",
+
+        "presetId": "001"
+    }
+]
