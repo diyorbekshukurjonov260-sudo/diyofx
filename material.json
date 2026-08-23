@@ -12,5 +12,20 @@
         "assets": "#",
 
         "presetId": "001"
+    }, 
+    
+    {
+        "id": "002",
+        "title": "AE LIKE EDIT PRESET",
+        "label": "MATERIALS 02",
+        "description": "CC • Audio • Overlay • Assets",
+        "thumbnail": "thumbnail2.png",
+
+        "cc": "#",
+        "audio": "audio2.zip",
+        "overlay": "overlay.zip",
+        "assets": "#",
+
+        "presetId": "002"
     }
 ]
