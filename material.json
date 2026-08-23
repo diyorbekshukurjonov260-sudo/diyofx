@@ -24,7 +24,7 @@
         "cc": "#",
         "audio": "audio2.zip",
         "overlay": "overlay.zip",
-        "assets": "#",
+        "assets": "screen2",
 
         "presetId": "002"
     }
