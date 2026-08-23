@@ -131,5 +131,38 @@
                 "premium": false
             }
         }
-    }
+    }, 
+        {
+        "id": "005",
+        "title": "AE LIKE SUKUNA EDIT PRESET",
+        "label": "PRESET 05",
+        "description": "Premium XML preset for Alight Motion editors.",
+        "thumbnail": "thumbnail5.png",
+
+        "xml": "nati.zip",
+        "qr": "nati.jpg",
+        "alightLink": "https://alightcreative.com/am/share/u/HyYxNakVd0S0rqS4s4cHfSK5nOp2/p/Kl6iifqxIH-7f213d3514712448",
+
+        "materials": {
+            "cc": {
+                "file": "#",
+                "premium": false
+            },
+
+            "audio": {
+                "file": "audio5.zip",
+                "premium": true
+            },
+
+            "overlay": {
+                "file": "overlay.zip",
+                "premium": true
+            },
+
+            "assets": {
+                "file": "screen3.zip",
+                "premium": true
+            }
+        }
+        }
 ]
