@@ -52,7 +52,7 @@
         "cc": "#",
         "audio": "audio4.zip",
         "overlay": "overlay.zip",
-        "assets": "screen",
+        "assets": "#",
 
         "presetId": "004"
         }, 
