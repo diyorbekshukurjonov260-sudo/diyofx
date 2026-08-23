@@ -41,5 +41,19 @@
         "assets": "#",
 
         "presetId": "003"
+    }, 
+    {
+        "id": "004",
+        "title": "AE LIKE NOBARA EDIT PRESET",
+        "label": "MATERIALS 04",
+        "description": "CC • Audio • Overlay • Assets",
+        "thumbnail": "thumbnail4.png",
+
+        "cc": "#",
+        "audio": "audio4.zip",
+        "overlay": "overlay.zip",
+        "assets": "#",
+
+        "presetId": "004"
     }
 ]
