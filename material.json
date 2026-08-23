@@ -16,7 +16,7 @@
     
     {
         "id": "002",
-        "title": "AE LIKE EDIT PRESET",
+        "title": "AE LIKE ITACHI EDIT PRESET",
         "label": "MATERIALS 02",
         "description": "CC • Audio • Overlay • Assets",
         "thumbnail": "thumbnail2.png",
@@ -27,5 +27,19 @@
         "assets": "screen2",
 
         "presetId": "002"
+    }, 
+    {
+        "id": "003",
+        "title": "AE LIKE GOJO EDIT PRESET",
+        "label": "MATERIALS 03",
+        "description": "CC • Audio • Overlay • Assets",
+        "thumbnail": "thumbnail3.png",
+
+        "cc": "#",
+        "audio": "audio3.zip",
+        "overlay": "overlay.zip",
+        "assets": "screen2",
+
+        "presetId": "003"
     }
 ]
