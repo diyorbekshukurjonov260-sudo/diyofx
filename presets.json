@@ -65,5 +65,38 @@
                 "premium": true
             }
         }
+    }, 
+        {
+        "id": "003",
+        "title": "AE LIKE GOJO EDIT PRESET",
+        "label": "PRESET 03",
+        "description": "Premium XML preset for Alight Motion editors.",
+        "thumbnail": "thumbnail3.png",
+
+        "xml": "guerreiro.zip",
+        "qr": "guerreiro.jpg",
+        "alightLink": "https://alightcreative.com/am/share/u/HyYxNakVd0S0rqS4s4cHfSK5nOp2/p/yKIkSMFvvX-9f9644abfd9fe2ad",
+
+        "materials": {
+            "cc": {
+                "file": "#",
+                "premium": false
+            },
+
+            "audio": {
+                "file": "audio3.zip",
+                "premium": true
+            },
+
+            "overlay": {
+                "file": "overlay.zip",
+                "premium": true
+            },
+
+            "assets": {
+                "file": "screen2",
+                "premium": false
+            }
+        }
     }
 ]
