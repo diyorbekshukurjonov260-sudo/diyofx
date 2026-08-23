@@ -51,18 +51,18 @@
             },
 
             "audio": {
-                "file": "audio.zip",
-                "premium": false
+                "file": "audio2.zip",
+                "premium": true
             },
 
             "overlay": {
                 "file": "overlay.zip",
-                "premium": true
+                "premium": false
             },
 
             "assets": {
-                "file": "#",
-                "premium": false
+                "file": "screen2",
+                "premium": true
             }
         }
     }
