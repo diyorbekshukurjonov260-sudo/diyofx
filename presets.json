@@ -61,7 +61,7 @@
             },
 
             "assets": {
-                "file": "screen2",
+                "file": "screen.zip",
                 "premium": true
             }
         }
@@ -94,7 +94,7 @@
             },
 
             "assets": {
-                "file": "screen2",
+                "file": "#",
                 "premium": false
             }
         }
