@@ -31,5 +31,39 @@
                 "premium": false
             }
         }
+    }, 
+    
+    {
+        "id": "002",
+        "title": "AE LIKE EDIT PRESET",
+        "label": "PRESET 02",
+        "description": "Premium XML preset for Alight Motion editors.",
+        "thumbnail": "thumbnail2.png",
+
+        "xml": "itachi.zip",
+        "qr": "itachi.jpg",
+        "alightLink": "https://alightcreative.com/am/share/u/zzvqGRoM1RMsq3O6mvh5AHQXQJf1/p/eOPBbmDOh3-cc32ec4447df6996",
+
+        "materials": {
+            "cc": {
+                "file": "#",
+                "premium": false
+            },
+
+            "audio": {
+                "file": "audio.zip",
+                "premium": false
+            },
+
+            "overlay": {
+                "file": "overlay.zip",
+                "premium": true
+            },
+
+            "assets": {
+                "file": "#",
+                "premium": false
+            }
+        }
     }
 ]
