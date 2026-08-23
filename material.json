@@ -24,7 +24,7 @@
         "cc": "#",
         "audio": "audio2.zip",
         "overlay": "overlay.zip",
-        "assets": "screen2",
+        "assets": "screen2.zip",
 
         "presetId": "002"
     }, 
@@ -38,7 +38,7 @@
         "cc": "#",
         "audio": "audio3.zip",
         "overlay": "overlay.zip",
-        "assets": "screen2",
+        "assets": "#",
 
         "presetId": "003"
     }
