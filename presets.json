@@ -142,7 +142,7 @@
 
         "xml": "nati.zip",
         "qr": "nati.jpg",
-        "alightLink": "",
+        "alightLink": "nati.zip",
 
         "materials": {
             "cc": {
@@ -161,7 +161,7 @@
             },
 
             "assets": {
-                "file": "#",
+                "file": "screen3",
                 "premium": true
             }
         }
