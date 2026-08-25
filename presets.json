@@ -12,18 +12,18 @@
 
         "materials": {
             "cc": {
+                "file": "cc.zip",
+                "premium": true
+            },
+
+            "audio": {
                 "file": "#",
                 "premium": false
             },
 
-            "audio": {
-                "file": "audio.zip",
-                "premium": true
-            },
-
             "overlay": {
-                "file": "overlay.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             },
 
             "assets": {
@@ -46,23 +46,23 @@
 
         "materials": {
             "cc": {
+                "file": "cc.zip",
+                "premium": true
+            },
+
+            "audio": {
                 "file": "#",
                 "premium": false
             },
 
-            "audio": {
-                "file": "audio2.zip",
-                "premium": true
-            },
-
             "overlay": {
-                "file": "overlay.zip",
+                "file": "#",
                 "premium": false
             },
 
             "assets": {
-                "file": "screen2.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             }
         }
     }, 
@@ -79,18 +79,18 @@
 
         "materials": {
             "cc": {
+                "file": "cc.zip",
+                "premium": true
+            },
+
+            "audio": {
                 "file": "#",
                 "premium": false
             },
 
-            "audio": {
-                "file": "audio3.zip",
-                "premium": true
-            },
-
             "overlay": {
-                "file": "overlay.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             },
 
             "assets": {
@@ -112,18 +112,18 @@
 
         "materials": {
             "cc": {
+                "file": "cc.zip",
+                "premium": true
+            },
+
+            "audio": {
                 "file": "#",
                 "premium": false
             },
 
-            "audio": {
-                "file": "audio4.zip",
-                "premium": true
-            },
-
             "overlay": {
-                "file": "overlay.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             },
 
             "assets": {
@@ -145,23 +145,23 @@
 
         "materials": {
             "cc": {
+                "file": "cc.zip",
+                "premium": true 
+            },
+
+            "audio": {
                 "file": "#",
                 "premium": false
             },
 
-            "audio": {
-                "file": "audio5.zip",
-                "premium": true
-            },
-
             "overlay": {
-                "file": "overlay.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             },
 
             "assets": {
-                "file": "screen3.zip",
-                "premium": true
+                "file": "#",
+                "premium": false
             }
         }
         }
