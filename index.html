@@ -92,42 +92,43 @@
     ========================== -->
 
     <header class="header">
+  <div class="header-inner">
 
-        <!-- Logo / Brand -->
+    <a href="index.html" class="brand">DiyoFX</a>
 
-        <a href="index.html" class="brand">
+    <!-- Desktop navigation -->
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="preset.html">Presets</a>
+      <a href="material.html">Materials</a>
+      <a href="guide.html">Guide</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
 
-            <img
-                src="favicon.png"
-                alt="DiyoFX Logo"
-            >
+    <!-- Mobile menu button -->
+    <button
+      class="menu-btn"
+      id="menuBtn"
+      type="button"
+      aria-label="Open navigation"
+      aria-expanded="false"
+      aria-controls="mobileNav"
+    >
+      ☰
+    </button>
 
-            <span>DiyoFX</span>
+  </div>
 
-        </a>
-
-
-        <!-- Header Actions -->
-
-        <div class="header-actions">
-
-            <button
-                class="cart-btn"
-                aria-label="Cart"
-            >
-                🛒
-            </button>
-
-
-            <button
-                class="menu-btn"
-                aria-label="Menu"
-            >
-                ☰
-            </button>
-
-        </div>
-
+  <!-- Mobile navigation -->
+  <nav class="mobile-nav" id="mobileNav" aria-label="Mobile navigation">
+    <a href="index.html">Home</a>
+    <a href="preset.html">Presets</a>
+    <a href="material.html">Materials</a>
+    <a href="guide.html">Guide</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
     </header>
     <!-- =========================
      HERO
