@@ -341,6 +341,31 @@
 </footer>
 
 <script src="loader.js"></script>
+    <script>
+  const menuBtn = document.getElementById("menuBtn");
+  const mobileNav = document.getElementById("mobileNav");
+
+  menuBtn.addEventListener("click", () => {
+    const isOpen = mobileNav.classList.toggle("active");
+
+    menuBtn.setAttribute("aria-expanded", isOpen);
+    menuBtn.setAttribute(
+      "aria-label",
+      isOpen ? "Close navigation" : "Open navigation"
+    );
+
+    menuBtn.textContent = isOpen ? "✕" : "☰";
+  });
+
+  document.querySelectorAll(".mobile-nav a").forEach(link => {
+    link.addEventListener("click", () => {
+      mobileNav.classList.remove("active");
+      menuBtn.setAttribute("aria-expanded", "false");
+      menuBtn.setAttribute("aria-label", "Open navigation");
+      menuBtn.textContent = "☰";
+    });
+  });
+    </script>
 </body>
 
 </html>
